@@ -1,0 +1,1 @@
+# gafp.Odoo.sh
